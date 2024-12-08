@@ -29,3 +29,4 @@ Done!
 2                 Banana Slugs        85  0.00
 3  Yellow-bordered Taildropper        33  0.01
 ```
+![alt text](https://github.com/m3lmark/critter_finder/blob/main/critter_output.JPG?raw=true)
