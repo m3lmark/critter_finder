@@ -1,0 +1,6 @@
+matplotlib
+mpl_toolkits.basemap
+Pillow
+pandas
+python-dateutil
+requests
